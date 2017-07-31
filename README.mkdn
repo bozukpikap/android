@@ -3,7 +3,7 @@ DARK ROM
 
 To initialize your local repository, use this command:
 
-    repo init -u git://github.com/darkeyes84/android.git -b darkrom
+    repo init -u git://github.com/wight554/android.git -b darkrom
 
 Then to sync up:
 
